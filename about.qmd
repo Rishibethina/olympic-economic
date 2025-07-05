@@ -1,0 +1,6 @@
+---
+title: "About"
+---
+
+Hello! I chose this dataset because I was interested in the olympics and how it correlated towards how each country prospered. More specifically I chose to explore the correlation between the olympics and macroeconomic status of the country. As you may see,
+there are different graphs to show the different ways the data can be intepreted. I hope you are interested in this topic too!.

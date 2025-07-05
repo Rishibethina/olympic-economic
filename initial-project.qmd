@@ -1,0 +1,9 @@
+---
+title: "A Histogram"
+author: "Rishi Bethina"
+format: html
+execute:
+    echo: FALSE
+    warning: FALSE
+    message: FALSE
+---
